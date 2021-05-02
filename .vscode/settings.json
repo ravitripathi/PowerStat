@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "terminal.integrated.fontSize": 15,
+
+}
